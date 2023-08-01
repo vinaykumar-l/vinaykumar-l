@@ -34,20 +34,3 @@ Keep coding, keep contributing, and let's make the world a better place through 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/___vinaygowda___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/vinaykumar-l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/___vinaygowda___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/Vinay Kumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/vinaykumar-l"><img src="https://github-readme-stats.vercel.app/api?username=vinaykumar-l&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0f172a&text_color=0f172a&icon_color=0f172a&bg_color=ffffff&hide_border=true&show_icons=true" alt="vinaykumar-l's GitHub stats" /></a><a
-                      href="http://www.github.com/vinaykumar-l"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumar-l&stroke=0f172a&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=0f172a&currStreakLabel=0f172a&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a><a
-                      href="http://www.github.com/vinaykumar-l"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vinaykumar-l&bg_color=ffffff&color=0f172a&line=0f172a&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/vinaykumar-l" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar-l&langs_count=10&title_color=0f172a&text_color=0f172a&icon_color=0f172a&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
