@@ -4,7 +4,8 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Software developer and Open-source Contributer
 ----------------------------------------------
 
-🚀 Hello there! I'm VINAY KUMAR, a passionate Information Science and Engineering student at Acharya Institute of Technology. 😄🌈
+🚀 Hello there! I'm VINAY KUMAR, 😄🌈
+Anything that deals with 0's and 1's and in-between
 
 *   🌍  I'm based in Bangalore ,India
 *   ✉️  You can contact me at [vinaykumar.softdev@gmail.com](mailto:vinaykumar.softdev@gmail.com)
