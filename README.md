@@ -3,4 +3,4 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 Coder on a gap year
 ----------------------------------------------
-I only work on the idea I love
+I only work on the ideaz I love
