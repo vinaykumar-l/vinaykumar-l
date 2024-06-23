@@ -1,6 +1,6 @@
-Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),
+Hi there
 ===================================================================================================================================
 
 Coder on a gap year
 ----------------------------------------------
-I only work on the ideaz I love
+May be , Hi should just concentrate on developing skill rather than showing it
