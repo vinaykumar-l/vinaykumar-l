@@ -1,6 +1,6 @@
-Hi there
+# Hi there
 ===================================================================================================================================
 
-Coder on a gap year
+Coder on a gap year ( just wanna get rid of the college stuff first )
 ----------------------------------------------
-May be , I should just concentrate on developing skill rather than showing it
+(|) i will work on developing my skills rather than listing them here
